@@ -26,24 +26,3 @@
 </div>
 
 ###
-
-<h1 align="center"></h1>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<div align="left">
-</div>
-
-###
